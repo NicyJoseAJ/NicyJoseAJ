@@ -1,11 +1,24 @@
-<h2> 👋 Hi, I’m @NicyJoseAJ</h2>
-<p><em>Cybersecurity Consultant at <a href="https://www.technovalley.co.in/">Technovalley</a></em></p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicy</h1>
+<h3 align="center">I'm a passionate pentester from India.</h3>
+
+
+## 🙋‍♂️ About Me
+
+- 🔭 Cybersecurity Consultant at <a href="https://www.technovalley.co.in/">Technovalley</a></em></p>
 
 
 
--I’m interested in cyber security...
--currently learning cpent,oscp...
--Reach me at nicyjose9@gmail.com...
+- 🌱 I’m currently learning **CPENT,OSCP**
+
+
+- 📫 How to reach me **nicyjose9@gmail.com**
+
+
+
+
+
 
 ## 📊 My Github Stats
 
