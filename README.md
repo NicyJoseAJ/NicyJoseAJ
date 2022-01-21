@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicy</h1>
-<h3 align="center">I'm a passionate pentester from India.</h3>
+<h3 align="center">I'm a passionate Security Researcher from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -12,8 +12,15 @@
 
 - 🌱 I’m currently learning **CPENT,OSCP**
 
+- 🌱 Ask me about **CEH,CHFI,SECURITY+,CLOUD**
+
 
 - 📫 How to reach me **nicyjose9@gmail.com**
+
+**Languages and Tools:** 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 
